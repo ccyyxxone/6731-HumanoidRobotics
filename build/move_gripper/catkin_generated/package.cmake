@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "move_gripper")
+set(move_gripper_MAINTAINER "jvarley <jvarley@todo.todo>")
+set(move_gripper_DEPRECATED "")
+set(move_gripper_VERSION "0.0.0")
+set(move_gripper_BUILD_DEPENDS )
+set(move_gripper_RUN_DEPENDS )
+set(move_gripper_BUILDTOOL_DEPENDS "catkin")

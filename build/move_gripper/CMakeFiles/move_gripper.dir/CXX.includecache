@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dz2311/Documents/pr2_example_ws-master/src/move_gripper/src/gripper.cpp
+ros/ros.h
+-
+pr2_controllers_msgs/Pr2GripperCommand.h
+-
+actionlib/client/simple_action_client.h
+-
+tf/transform_listener.h
+-
+

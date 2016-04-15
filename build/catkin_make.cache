@@ -1,0 +1,2 @@
+move_arm:move_base:move_gripper:move_head:system_launch
+-DCATKIN_DEVEL_PREFIX=/home/dz2311/Documents/pr2_example_ws-master/devel -DCMAKE_INSTALL_PREFIX=/home/dz2311/Documents/pr2_example_ws-master/install -G Unix Makefiles

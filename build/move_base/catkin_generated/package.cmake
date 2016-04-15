@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "move_base")
+set(move_base_MAINTAINER "jvarley <jvarley@todo.todo>")
+set(move_base_DEPRECATED "")
+set(move_base_VERSION "0.0.0")
+set(move_base_BUILD_DEPENDS )
+set(move_base_RUN_DEPENDS )
+set(move_base_BUILDTOOL_DEPENDS "catkin")

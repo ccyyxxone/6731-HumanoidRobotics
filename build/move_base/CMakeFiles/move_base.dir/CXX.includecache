@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dz2311/Documents/pr2_example_ws-master/src/move_base/src/move_base.cpp
+iostream
+-
+ros/ros.h
+-
+geometry_msgs/Twist.h
+-
+tf/transform_listener.h
+-
+
