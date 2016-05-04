@@ -1,8 +1,0 @@
-prefix=/home/dz2311/Documents/pr2_example_ws-master/devel
-
-Name: move_head
-Description: Description of move_head
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/dz2311/Documents/pr2_example_ws-master/devel/lib 
-Requires: 

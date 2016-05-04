@@ -1,8 +1,0 @@
-prefix=/home/dz2311/Documents/pr2_example_ws-master/install
-
-Name: move_gripper
-Description: Description of move_gripper
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/dz2311/Documents/pr2_example_ws-master/install/lib 
-Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/dz2311/Desktop/PR2-handwriting/devel
+
+Name: write_letter
+Description: Description of write_letter
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dz2311/Desktop/PR2-handwriting/devel/lib 
+Requires: 

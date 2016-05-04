@@ -1,0 +1,8 @@
+prefix=/home/dz2311/Desktop/PR2-handwriting/devel
+
+Name: robot_write
+Description: Description of robot_write
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dz2311/Desktop/PR2-handwriting/devel/lib 
+Requires: 

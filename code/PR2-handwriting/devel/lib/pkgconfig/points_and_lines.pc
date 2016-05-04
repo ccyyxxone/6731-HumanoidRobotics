@@ -1,0 +1,8 @@
+prefix=/home/dz2311/Desktop/PR2-handwriting/devel
+
+Name: points_and_lines
+Description: Description of points_and_lines
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dz2311/Desktop/PR2-handwriting/devel/lib 
+Requires: 

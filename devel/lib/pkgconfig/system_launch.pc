@@ -1,8 +1,0 @@
-prefix=/home/dz2311/Documents/pr2_example_ws-master/devel
-
-Name: system_launch
-Description: Description of system_launch
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/dz2311/Documents/pr2_example_ws-master/devel/lib 
-Requires: 

@@ -1,8 +1,0 @@
-Process:
-1. move_base - move forward to the desk
-2. move_gripper1 - open the gripper
-3. move_arm1 - move arm to the pen (cola bin)
-4. move_gripper2 - close the gripper
-5. move_arm2 - move the pen to write
-6. move_arm3 - move the pen back
-7. move_gripper3 - open the gripper

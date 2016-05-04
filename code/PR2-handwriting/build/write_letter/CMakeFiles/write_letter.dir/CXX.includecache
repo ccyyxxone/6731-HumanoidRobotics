@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dz2311/Desktop/PR2-handwriting/src/write_letter/src/write_letter.cpp
+moveit/move_group_interface/move_group.h
+-
+moveit/planning_scene_interface/planning_scene_interface.h
+-
+moveit/planning_scene_monitor/planning_scene_monitor.h
+-
+actionlib/client/simple_action_client.h
+-
+iostream
+-
+ros/ros.h
+-
+geometry_msgs/Twist.h
+-
+tf/transform_listener.h
+-
+gazebo_msgs/GetModelState.h
+-
+string
+-
+vector
+-
+fstream
+-
+sstream
+-
+cstdlib
+-
+

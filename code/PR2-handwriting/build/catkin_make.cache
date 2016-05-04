@@ -1,0 +1,2 @@
+points_and_lines:robot_write:system_launch:write_letter
+-DCATKIN_DEVEL_PREFIX=/home/dz2311/Desktop/PR2-handwriting/devel -DCMAKE_INSTALL_PREFIX=/home/dz2311/Desktop/PR2-handwriting/install -G Unix Makefiles
